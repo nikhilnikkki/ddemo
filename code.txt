@@ -1,4 +1,9 @@
 this is new code file
 add extra line
+<<<<<<< HEAD
 this add in dev brach
 this add in the devlop branch
+=======
+new line add in dev
+this line created in the main branch
+>>>>>>> main
